@@ -181,7 +181,7 @@
                 </li>
                 <li class="nav-category-divider">BACK</li>
                 <li>
-                    <a href="auths/login.php">
+                    <a href="https://anxious-login.herokuapp.com/">
                         <span class="link-title">Log out</span>
                         <i class="mdi mdi-asterisk link-icon"></i>
                     </a>
